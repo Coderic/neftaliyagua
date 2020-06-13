@@ -4,7 +4,6 @@ description: "Presidente de Coderic"
 url: "https://neftaliyagua.coderic.net"
 
 
-# Delete the lines you don't need
 # about 5 elements are recomended
 github_username:  neftaliyagua
 #codepen_username: your_codepen_username_goes_here
@@ -30,7 +29,7 @@ public_key_url: "/id_rsa.pub"
 
 
 avatar: yes
-avatar_img_path: "imgs/neftali-yagua.jpg""
+avatar_img_path: "imgs/neftali-yagua.jpg"
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
 #avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
