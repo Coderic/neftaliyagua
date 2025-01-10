@@ -1,7 +1,7 @@
 # Site settings
 name: "Neftalí Yagua"
 description: "Presidente de Coderic"
-baseurl: "/neftaliyagua"
+baseurl: "/neftaliyagua/"
 
 
 # about 5 elements are recomended
