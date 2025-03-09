@@ -1,49 +1,20 @@
-# Site settings
+url: "https://coderic.org"
+baseurl: "/neftaliyagua/"
+title: "Coderic" # the name of your site, e.g. ACME Corp.
+network: ""
 name: "Neftalí Yagua"
 description: "Presidente de Coderic"
-baseurl: "/neftaliyagua/"
-
-
-# about 5 elements are recomended
 github_username:  neftaliyagua
-#codepen_username: your_codepen_username_goes_here
 facebook_username: neftaliyagua
-#vk_username: your_vk_username_goes_here
 twitter_username: neftaliyagua
-#google_plus_username: neftaliyagua
 linkedin_username: neftaliyagua
-#vine_username:  your_vine_username_goes_here
 instagram_username:  neftaliyagua
-#steam_username: your_steam_username_goes_here
 soundcloud_username:  neftaliyagua
 stack_of_username: neftaliyagua
-#reddit_username: your_reddit_username_goes_here
-#medium_username:  your_medium_username_goes_here
-#tumblr_username: your_tumblr_username_goes_here
-#weibo_username: your_weibo_username_goes_here
-#lastfm_username: neftaliyagua
 blog_url: "https://neftaliyagua.com"
 email: despacho@neftaliyagua.com
 public_key_url: "/id_rsa.pub"
-
-
-avatar: yes
 avatar_img_path: "imgs/neftali-yagua.jpg"
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
-#avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
-
-
-front_img: yes
-front_img_path: "imgs/background.jpg"
-#front_img_path: "https://external.url/image.jpg"
-
-
-favicon_img: yes
-favicon_img_path: "imgs/favicon.ico"
-#favicon_img_path: "https://external.url/favicon.ico"
-
-
-# Build settings
 markdown: kramdown
 permalink: pretty
+remote_theme: Coderic/coderic.org
