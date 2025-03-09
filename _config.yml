@@ -1,20 +1,9 @@
 url: "https://coderic.org"
 baseurl: "/neftaliyagua/"
-title: "Coderic" # the name of your site, e.g. ACME Corp.
-network: ""
+title: "Coderic"
+network: "TEAM"
 name: "Neftalí Yagua"
 description: "Software Engineer"
-github_username:  neftaliyagua
-facebook_username: neftaliyagua
-twitter_username: neftaliyagua
-linkedin_username: neftaliyagua
-instagram_username:  neftaliyagua
-soundcloud_username:  neftaliyagua
-stack_of_username: neftaliyagua
-blog_url: "https://neftaliyagua.com"
-email: despacho@neftaliyagua.com
-public_key_url: "/id_rsa.pub"
 avatar_img_path: "imgs/neftali-yagua.jpg"
-markdown: kramdown
 permalink: pretty
 remote_theme: Coderic/coderic.org
